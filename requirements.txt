@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+yfinance
+pandas
+ta
+xgboost
+numpy
+Pillow
+tensorflow
+opencv-python-headless
+
