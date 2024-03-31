@@ -56,6 +56,8 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 - scikit-learn
 - XGBoost
 
+  URL For APP Deploy on Stramlit Cloud : https://faeznxii65hcfydtfkwnwk.streamlit.app/
+
 - ![Screenshot 2024-03-31 163716](https://github.com/shubham5027/Hash_IT_Hackthon/assets/132193443/ad521cac-00c9-4335-a6cc-058d68be23fd)
 `![Screenshot 2024-03-31 155726](https://github.com/shubham5027/Hash_IT_Hackthon/assets/132193443/5459fd7d-5534-4cd2-8909-eb081a8289d1)
 ![Screenshot 2024-03-31 155704](https://github.com/shubham5027/Hash_IT_Hackthon/assets/132193443/20c2132d-c897-455c-8548-11ba1c479cb3)
