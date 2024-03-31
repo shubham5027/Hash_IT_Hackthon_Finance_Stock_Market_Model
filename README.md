@@ -1,4 +1,4 @@
-# Stock Price Prediction App
+# Stock Price Analysis and Prediction Responsive Webapp using Machine Learning
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
 
