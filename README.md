@@ -62,9 +62,4 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
+[hash_it_hack.webm](https://github.com/shubham5027/Hash_IT_Hackthon/assets/132193443/e78a82d2-6dd8-4d49-aecf-179f266072b9)
