@@ -2,6 +2,8 @@
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
 
+URL For APP Deploy on Stramlit Cloud : https://faeznxii65hcfydtfkwnwk.streamlit.app/
+
 ## Table of Contents
 
 - [Description](#description)
