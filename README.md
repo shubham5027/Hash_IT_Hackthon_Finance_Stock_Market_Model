@@ -39,7 +39,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 3. Run the Streamlit app:
    ```sh
-   app.py
+   streamlit run app.py
    ```
 
 2. The app will open in your default web browser. Use the sidebar to choose options for visualization, recent data display, or making price predictions.
