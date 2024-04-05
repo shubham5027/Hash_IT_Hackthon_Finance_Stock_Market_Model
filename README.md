@@ -81,4 +81,8 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
       -d = detached mode
       -p = port mapping <local host >:<container host>
 
+4. Use command - 
+    "docker ps" to check if a container is running or not
+     
+
       URL for APP deploy on docker : https://drive.google.com/file/d/1uEdPxrN7HikjR5XxN0u_6jOOfBLX90KC/view?usp=sharing
