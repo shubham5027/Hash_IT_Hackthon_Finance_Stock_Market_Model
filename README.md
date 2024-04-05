@@ -67,3 +67,18 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 
 [hash_it_hack.webm](https://github.com/shubham5027/Hash_IT_Hackthon/assets/132193443/e78a82d2-6dd8-4d49-aecf-179f266072b9)
+
+## Deploy to Docker 
+
+1. Navigate to the directory where your Dockerfile exists.
+
+2. Build the docker image using the command -
+     docker build -t <image-name> .
+     -t = tag
+
+3. Run the image once the build is finished with the following command -
+   docker run -d -p 8501:8501 <image-name>
+      -d = detached mode
+      -p = port mapping <local host >:<container host>
+
+      URL for APP deploy on docker : https://drive.google.com/file/d/1uEdPxrN7HikjR5XxN0u_6jOOfBLX90KC/view?usp=sharing
