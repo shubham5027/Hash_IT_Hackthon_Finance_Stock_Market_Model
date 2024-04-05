@@ -73,11 +73,11 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 1. Navigate to the directory where your Dockerfile exists.
 
 2. Build the docker image using the command -
-     docker build -t <image-name> .
+     "docker build -t <image-name> . "
      -t = tag
 
 3. Run the image once the build is finished with the following command -
-   docker run -d -p 8501:8501 <image-name>
+   "docker run -d -p 8501:8501 <image-name> "
       -d = detached mode
       -p = port mapping <local host >:<container host>
 
